@@ -7,7 +7,10 @@ Boardclip is a cross-platform/multiplatform shared clipboard application to tran
 3. Finally, enter a unique Id, then hit connect. When a cut/copy is performed from the origin client, the destination client with the same Id should receive text data. 
 
 # Boardclip Pro
-Pro gives you 1000+ character limit to cut/copy text data, as well as single file transfer. You may purchase a Pro plan at our website below.
+You may purchase the Pro plan at our website mentioned at the bottom.
+Pro gives you:
+1. Removal of character limit to cut/copy text data
+2. Ability to perform file transfers
 
 # Website
 Visit us at http://boardclip.soupee.net for more information.
