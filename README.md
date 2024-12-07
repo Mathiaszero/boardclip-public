@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://some_place.com/image.png" />
+  <img src="https://raw.githubusercontent.com/Mathiaszero/boardclip-public/refs/heads/main/icon-192.png" />
 </p>
 
 # Boardclip
