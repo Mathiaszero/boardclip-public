@@ -3,7 +3,7 @@ Boardclip is a cross-platform/multiplatform shared clipboard application to tran
 
 # Quickstart
 1. Download the client/clients compatible with your operating system, located in Releases. Generally, at least two clients will be needed in order to transfer clipboard data from one system to another. Run the executable.
-2. In the client tab, select the server number in the dropdown. The -1 server is for localhost only, and is not useful for your purposes.
+2. In the client tab, select the server number in the dropdown. The "-1" option is for localhost only, and is not useful for your purposes.
 3. Finally, enter a unique Id, then hit connect. When a cut/copy is performed from the origin client, the destination client with the same Id should receive text data. 
 
 # Boardclip Pro
