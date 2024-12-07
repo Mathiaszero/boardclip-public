@@ -10,4 +10,4 @@ Boardclip is a cross-platform/multiplatform shared clipboard application to tran
 Pro gives you 1000+ character limit to cut/copy text data, as well as single file transfer. You may purchase a Pro plan at our website below.
 
 # Website
-Visit us at boardclip.soupee.net for more information.
+Visit us at http://boardclip.soupee.net for more information.
