@@ -13,5 +13,5 @@ Boardclip is a cross-platform/multiplatform shared clipboard application to tran
 # Boardclip Pro
 You may purchase the Pro plan at our website.
 Pro gives you:
-- Removal of character limit to cut/copy/paste text data
+- Increased character limit to 10000 to cut/copy/paste text data
 - Ability to perform file transfers
