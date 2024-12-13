@@ -3,7 +3,7 @@
 </p>
 
 # Boardclip
-Boardclip is a cross-platform/multiplatform shared clipboard application to transfer data such as text between two or more computing devices. Cut, copy, and paste text from one device to another, whether it be a server-client, client-client, two or more different operating systems, or other computing relationship.
+Boardclip is a cross-platform/multiplatform shared clipboard application to transfer data such as text between two or more computing devices. Cut, copy, and paste text from one device to another, whether it be a server-client, client-client, two or more different operating systems, VNC clients missing clipboard functionality, or other computing relationship.
 
 # Quickstart
 1. Download the client/clients compatible with your operating system, located in Releases (Linux and Windows/EXE). Generally, at least two clients will be needed in order to transfer clipboard data from one system to another. Run the executable.
